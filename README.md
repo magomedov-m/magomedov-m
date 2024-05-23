@@ -5,5 +5,5 @@
 + Redux-toolkit
 + TypeScript;
 + JavaScript;
-+ CSS (SCSS)
-+ HTML
++ CSS (SCSS);
++ HTML.
