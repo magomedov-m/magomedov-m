@@ -1,4 +1,4 @@
-# Contact me: <a href="https://t.me/magomedov_net"><img src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" /></a> <a href='tel:89604086103'><img src='https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Phone_alt.png' /></a>
+# Contact me: <a href="https://t.me/magomedov_net"><img src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" /></a> <a href='tel:89604086103'><img style='height: 40px; width: auto;' src='https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Phone_alt.png' /></a>
 # Привет, я Магомед Магомедов
 ### Разработчик Frontend из Дагестана, Россия
 ## Технологии, которые я изучаю:
