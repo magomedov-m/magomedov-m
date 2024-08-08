@@ -9,14 +9,24 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<ul>
-React:
-  <li>h</li>
-  <li>h</li>
-  <li>h</li>
-  <li>h</li>
-</ul>
-
+<div>
+  <h1>React</h1>
+    <ul>
+        <li>Компоненты</li>
+        <li>JSX</li>
+        <li>Состояние (State)</li>
+        <li>Свойства (Props)</li>
+        <li>Жизненный цикл компонентов</li>
+        <li>Хуки (Hooks)</li>
+        <li>Контекст (Context)</li>
+        <li>React Router</li>
+        <li>Управление состоянием (Redux, MobX)</li>
+        <li>Тестирование компонентов</li>
+        <li>Оптимизация производительности</li>
+        <li>Серверный рендеринг (SSR)</li>
+        <li>Статическая генерация (SSG)</li>
+    </ul>
+</div>
 <h2>Также я решаю задачи по алгоритмам и структурам данных на LeetCode: <a href='https://leetcode.com/devMagomedov/'>Посмотреть достижения</a></h2>
   
   
