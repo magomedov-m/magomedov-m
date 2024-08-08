@@ -25,7 +25,6 @@
         <li>React Router</li>
         <li>Управление состоянием (Redux)</li>
         <li>Работа с формами</li>
-        
     </ul>
 </div>
 <h2>Также я решаю задачи по алгоритмам и структурам данных на LeetCode: <a href='https://leetcode.com/devMagomedov/'>Посмотреть достижения</a></h2>
