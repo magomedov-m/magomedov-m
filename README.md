@@ -18,12 +18,12 @@
 2. удобство использования, вся нужная информация хранится в браузере: пароли, имена, почты, история и т. п., благодаря чему пользователь не волнуется за хранение своих данных и может пользоваться любой услугой в нужный момент: покупка вещей в интернет-магазине, регистрация на мероприятие, быстрый перевод денег на счет члена семьи или другого клиента банка, скачивание необходимых материалов: фото, видео, аудио, текст и т. д.
 
 ## Технологии, которые я изучаю:
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg title="React" alt="React" width="40" height="40") 
-![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg "Redux") 
-![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg "TypeScript") 
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript") 
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg "CSS3") 
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML5") 
+![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg =40x40 "React")
+![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg =40x40 "Redux")
+![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg =40x40 "TypeScript")
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg =40x40 "JavaScript")
+![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg =40x40 "CSS3")
+![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg =40x40 "HTML5")
 
 # React
 - Компоненты
