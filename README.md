@@ -18,7 +18,7 @@
 2. удобство использования, вся нужная информация хранится в браузере: пароли, имена, почты, история и т. п., благодаря чему пользователь не волнуется за хранение своих данных и может пользоваться любой услугой в нужный момент: покупка вещей в интернет-магазине, регистрация на мероприятие, быстрый перевод денег на счет члена семьи или другого клиента банка, скачивание необходимых материалов: фото, видео, аудио, текст и т. д.
 
 ## Технологии, которые я изучаю:
-![React]("https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40") 
+![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg title="React" alt="React" width="40" height="40") 
 ![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg "Redux") 
 ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg "TypeScript") 
 ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript") 
