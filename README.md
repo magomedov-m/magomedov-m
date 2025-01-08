@@ -3,7 +3,7 @@
 
 <h1>Разработчик Frontend из р. Дагестан, Россия.</h1> # Мой путь в Frontend-разработке
 
-Изучаю фронтенд уже более двух лет. Начал, как обычно, с самых простых HTML-тегов (октябрь 2022). Через два месяца начал изучать CSS и продолжил верстать свои первые одностраничники, постепенно добавляя к ним препроцессор CSS — SCSS. Позже ознакомился с JavaScript и вплотную начал заниматься программированием.
+Изучаю фронтенд уже более двух лет. Начал, как обычно, с самых простых HTML-тегов (октябрь 2022г.). Через два месяца начал изучать CSS и продолжил верстать свои первые одностраничники, постепенно добавляя к ним препроцессор CSS — SCSS. Позже ознакомился с JavaScript (март 2023г.) и вплотную начал заниматься программированием.
 
 ## Путь к React
 
@@ -11,7 +11,7 @@
 
 ### Изучение алгоритмов и структур данных
 
-В феврале 2024 года начал изучать алгоритмы и структуры данных. Решаю задачи на Leetcode, и у меня хорошо получается: уже решил более 100 задач и продолжаю их решать. Делаю это по следующей схеме:
+В феврале 2024 года начал изучать алгоритмы и структуры данных. Решаю задачи на Leetcode, и у меня хорошо получается: уже решил более 120 задач и продолжаю их решать. Делаю это по следующей схеме:
 
 1. Пытаюсь найти решение примерно за 30 минут:
    - Если решение найдено — решаю и перехожу к следующей задаче.
@@ -26,7 +26,7 @@
 В декабре 2024г. принял участие в хакатоне **mpit.pro**, где наша команда заняла **первое место**. Это была настоящая проверка наших навыков и креативности. В течение двух дней мы работали над разработкой ИТ-проекта (направление "Бизнес" из имевшихся: "Социальное развитие", "Образование", "Бизнес"), который требовал от нас не только технических знаний, но и умения работать в команде, быстро адаптироваться к изменениям и находить нестандартные решения.
 
 #### Достижения на хакатоне
-
+- **1 место <img src='https://cdn-icons-png.flaticon.com/512/11865/11865443.png' width="20" height="20" />**
 - **Командная работа**: Мы объединили усилия, чтобы создать прототип, который соответствовал требованиям жюри и решал актуальные задачи.
 - **Креативность и инновации**: Наша идея была признана одной из лучших благодаря оригинальному подходу и высокому качеству реализации.
 - **Обратная связь от экспертов**: Мы получили ценные комментарии от профессионалов отрасли, что поможет нам улучшить наш проект в будущем.
@@ -52,11 +52,14 @@
 - Возможность пользоваться любой услугой в нужный момент: покупка вещей в интернет-магазине, регистрация на мероприятие, быстрый перевод денег на счет члена семьи или другого клиента банка, скачивание необходимых материалов (фото, видео, аудио, текст и т. д.).
 
 <h2>Технологии, которые я изучаю:</h2>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+</div>
+
 
 <h2>Также я решаю задачи по алгоритмам и структурам данных на LeetCode: <a href='https://leetcode.com/devMagomedov/'>Посмотреть достижения</a></h2>
