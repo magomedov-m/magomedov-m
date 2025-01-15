@@ -1,5 +1,6 @@
 # Привет <img style='height: 50px; width: auto;' src='https://github.com/blackcater/blackcater/raw/main/images/Hi.gif' />, я Магомед Магомедов
-# Свяжитесь со мной: <a href="https://t.me/magomedov_net"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" /></a> 
+# Свяжитесь со мной: <a href="https://t.me/magomedov_net"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" /></a> <a href="mailto:magomedovworkdev@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" width=100 /></a>
+
 
 <h1>Разработчик Frontend из р. Дагестан, Россия.</h1> 
 
